@@ -1,6 +1,6 @@
-Project Name ===> Guess_Number Game
+Project Name => Guess_Number Game
 
-Program Name ===> Guess_Number Game
+Program Name => Guess_Number Game
 
 Program Description ===> Making A Simple Number Guessing Game
 

@@ -8,9 +8,9 @@ Programming Language => Ruby
 
 Description Of Files:
 
-For Run ===> ruby guess_number.rb
+For Run => ruby guess_number.rb
 
-Required Packages For Ruby ===> colorize
+Required Packages For Ruby => colorize
 
 colorize ===> To Install => gem install colorize
 

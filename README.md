@@ -2,9 +2,9 @@ Project Name => Guess_Number Game
 
 Program Name => Guess_Number Game
 
-Program Description ===> Making A Simple Number Guessing Game
+Program Description => Making A Simple Number Guessing Game
 
-Programming Language ===> Ruby
+Programming Language => Ruby
 
 Description Of Files:
 
